@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "812585455221",
+    "project_id": "loginsenatarea",
+    "storage_bucket": "loginsenatarea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812585455221:android:99bc3a81bd6ec5b509323c",
+        "android_client_info": {
+          "package_name": "com.google.auth_jc.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812585455221-40h4j8j197e0ft1jqvq221ec1ts748t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.auth_jc.googleauth",
+            "certificate_hash": "cc10072fc14ad06e25c50c87e15f0da25f276b85"
+          }
+        },
+        {
+          "client_id": "812585455221-2iap6ebi0pjb7ifns3o7ajtlgcrrs38k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQYUoT0gL8ccpiq-Od8RwEdxStgSmcd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812585455221-2iap6ebi0pjb7ifns3o7ajtlgcrrs38k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
